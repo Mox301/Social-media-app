@@ -10,9 +10,11 @@ After that run the main method. You can find the main method in "Social media ap
 # Usage
 1- signin and signup.
 
+Note: user cannot create a new account with an email or phone number that is used in another account.
+
 2- search for another user, group, or page.
 
--if the person that you search for is found and not on your friend's list then you can add them to your friend list. also if you found the group that you search for and you are not a member of it then you can join in. and the same thing with pages.
+Note: if the person that you search for is found and not on your friend's list then you can add them to your friend list. also if you found the group that you search for and you are not a member of it then you can join in. and the same thing with pages.
 
 3- create a new public post, private or post that only members of your private list can see.
 
