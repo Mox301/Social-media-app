@@ -1,4 +1,4 @@
-# Social-media-app
+# A-Social-media-plaatform
 This project is a simple social media app. It has functionality like Facebook (create an account, send message to another user, create a post, comment on it, like on it and so on...).
 
 The goal of this project is to apply Java OOP concepts in an advanced way.
